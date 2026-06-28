@@ -29,9 +29,9 @@ Ensure the following image files are placed in `assets/images/`:
 
 ## Update Links
 
-- LeetCode: `https://leetcode.com/u/Karupothula_Dinesh/`
-- LinkedIn: `https://www.linkedin.com/in/dinesh-karupothula-2a3494357/`
-- GitHub: `https://github.com/DineshKarupothula`
+- [LeetCode](https://leetcode.com/u/Karupothula_Dinesh/)
+- [LinkedIn](https://www.linkedin.com/in/dinesh-karupothula-2a3494357/)
+- [GitHub](https://github.com/DineshKarupothula)
 
 ## Local Preview
 
