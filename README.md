@@ -2,6 +2,14 @@
 
 A personal portfolio website for Dinesh Karupothula showcasing full stack, Python, AI/ML, and database projects.
 
+---
+
+## 🚀 LIVE PORTFOLIO
+
+# [👉 VIEW LIVE SITE HERE 👈](https://myportfolio-lime-zeta.vercel.app/)
+
+---
+
 ## Project Structure
 
 - `index.html` — main portfolio page
